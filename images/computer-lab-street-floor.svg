@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1610" height="230" viewBox="0 0 1610 230" version="1.1">
+    <title>Computer Laboratory, Cambridge - Floor Code</title>
+    <rect style="fill:#888888;stroke:#999999;stroke-width:1;paint-order:fill stroke;" id="floor" width="1580" height="200" x="15" y="15" />
+    <g id="floortile-grid" style="stroke:#999999;stroke-width=1;">
+        <path d="M 35,15 v 200" id="grid-x-0"/>
+        <path d="M 55,15 v 200" id="grid-x-half-0"/>
+        <path d="M 75,15 v 200" id="grid-x-1"/>
+        <path d="M 95,15 v 200" id="grid-x-half-1"/>
+        <path d="M 115,15 v 200" id="grid-x-2"/>
+        <path d="M 135,15 v 200" id="grid-x-half-2"/>
+        <path d="M 155,15 v 200" id="grid-x-3"/>
+        <path d="M 175,15 v 200" id="grid-x-half-3"/>
+        <path d="M 195,15 v 200" id="grid-x-4"/>
+        <path d="M 215,15 v 200" id="grid-x-half-4"/>
+        <path d="M 235,15 v 200" id="grid-x-5"/>
+        <path d="M 255,15 v 200" id="grid-x-half-5"/>
+        <path d="M 275,15 v 200" id="grid-x-6"/>
+        <path d="M 295,15 v 200" id="grid-x-half-6"/>
+        <path d="M 315,15 v 200" id="grid-x-7"/>
+        <path d="M 335,15 v 200" id="grid-x-half-7"/>
+        <path d="M 355,15 v 200" id="grid-x-8"/>
+        <path d="M 375,15 v 200" id="grid-x-half-8"/>
+        <path d="M 395,15 v 200" id="grid-x-9"/>
+        <path d="M 415,15 v 200" id="grid-x-half-9"/>
+        <path d="M 435,15 v 200" id="grid-x-10"/>
+        <path d="M 455,15 v 200" id="grid-x-half-10"/>
+        <path d="M 475,15 v 200" id="grid-x-11"/>
+        <path d="M 495,15 v 200" id="grid-x-half-11"/>
+        <path d="M 515,15 v 200" id="grid-x-12"/>
+        <path d="M 535,15 v 200" id="grid-x-half-12"/>
+        <path d="M 555,15 v 200" id="grid-x-13"/>
+        <path d="M 575,15 v 200" id="grid-x-half-13"/>
+        <path d="M 595,15 v 200" id="grid-x-14"/>
+        <path d="M 615,15 v 200" id="grid-x-half-14"/>
+        <path d="M 635,15 v 200" id="grid-x-15"/>
+        <path d="M 655,15 v 200" id="grid-x-half-15"/>
+        <path d="M 675,15 v 200" id="grid-x-16"/>
+        <path d="M 695,15 v 200" id="grid-x-half-16"/>
+        <path d="M 715,15 v 200" id="grid-x-17"/>
+        <path d="M 735,15 v 200" id="grid-x-half-17"/>
+        <path d="M 755,15 v 200" id="grid-x-18"/>
+        <path d="M 775,15 v 200" id="grid-x-half-18"/>
+        <path d="M 795,15 v 200" id="grid-x-19"/>
+        <path d="M 815,15 v 200" id="grid-x-half-19"/>
+        <path d="M 835,15 v 200" id="grid-x-20"/>
+        <path d="M 855,15 v 200" id="grid-x-half-20"/>
+        <path d="M 875,15 v 200" id="grid-x-21"/>
+        <path d="M 895,15 v 200" id="grid-x-half-21"/>
+        <path d="M 915,15 v 200" id="grid-x-22"/>
+        <path d="M 935,15 v 200" id="grid-x-half-22"/>
+        <path d="M 955,15 v 200" id="grid-x-23"/>
+        <path d="M 975,15 v 200" id="grid-x-half-23"/>
+        <path d="M 995,15 v 200" id="grid-x-24"/>
+        <path d="M 1015,15 v 200" id="grid-x-half-24"/>
+        <path d="M 1035,15 v 200" id="grid-x-25"/>
+        <path d="M 1055,15 v 200" id="grid-x-half-25"/>
+        <path d="M 1075,15 v 200" id="grid-x-26"/>
+        <path d="M 1095,15 v 200" id="grid-x-half-26"/>
+        <path d="M 1115,15 v 200" id="grid-x-27"/>
+        <path d="M 1135,15 v 200" id="grid-x-half-27"/>
+        <path d="M 1155,15 v 200" id="grid-x-28"/>
+        <path d="M 1175,15 v 200" id="grid-x-half-28"/>
+        <path d="M 1195,15 v 200" id="grid-x-29"/>
+        <path d="M 1215,15 v 200" id="grid-x-half-29"/>
+        <path d="M 1235,15 v 200" id="grid-x-30"/>
+        <path d="M 1255,15 v 200" id="grid-x-half-30"/>
+        <path d="M 1275,15 v 200" id="grid-x-31"/>
+        <path d="M 1295,15 v 200" id="grid-x-half-31"/>
+        <path d="M 1315,15 v 200" id="grid-x-32"/>
+        <path d="M 1335,15 v 200" id="grid-x-half-32"/>
+        <path d="M 1355,15 v 200" id="grid-x-33"/>
+        <path d="M 1375,15 v 200" id="grid-x-half-33"/>
+        <path d="M 1395,15 v 200" id="grid-x-34"/>
+        <path d="M 1415,15 v 200" id="grid-x-half-34"/>
+        <path d="M 1435,15 v 200" id="grid-x-35"/>
+        <path d="M 1455,15 v 200" id="grid-x-half-35"/>
+        <path d="M 1475,15 v 200" id="grid-x-36"/>
+        <path d="M 1495,15 v 200" id="grid-x-half-36"/>
+        <path d="M 1515,15 v 200" id="grid-x-37"/>
+        <path d="M 1535,15 v 200" id="grid-x-half-37"/>
+        <path d="M 1555,15 v 200" id="grid-x-38"/>
+        <path d="M 1575,15 v 200" id="grid-x-half-38"/>
+        <path d="M 15,35 h 1580" id="grid-y-0"/>
+        <path d="M 15,55 h 1580" id="grid-y-1"/>
+        <path d="M 15,75 h 1580" id="grid-y-2"/>
+        <path d="M 15,95 h 1580" id="grid-y-3"/>
+        <path d="M 15,115 h 1580" id="grid-y-4"/>
+        <path d="M 15,135 h 1580" id="grid-y-5"/>
+        <path d="M 15,155 h 1580" id="grid-y-6"/>
+        <path d="M 15,175 h 1580" id="grid-y-7"/>
+        <path d="M 15,195 h 1580" id="grid-y-half-7"/>
+    </g>
+    <g style="fill:#444444;stroke:#999999;stroke-width:1;paint-order:fill stroke;" id="binary-tiles">
+        <rect id="tile-0-1" width="20" height="10" x="35" y="55" />
+        <rect id="tile-0-6" width="20" height="10" x="35" y="155" />
+        <rect id="tile-0-7" width="20" height="10" x="35" y="175" />
+        <rect id="tile-1-1" width="20" height="10" x="75" y="55" />
+        <rect id="tile-1-2" width="20" height="10" x="75" y="75" />
+        <rect id="tile-1-4" width="20" height="10" x="75" y="115" />
+        <rect id="tile-1-5" width="20" height="10" x="75" y="135" />
+        <rect id="tile-1-6" width="20" height="10" x="75" y="155" />
+        <rect id="tile-1-7" width="20" height="10" x="75" y="175" />
+        <rect id="tile-2-1" width="20" height="10" x="115" y="55" />
+        <rect id="tile-2-2" width="20" height="10" x="115" y="75" />
+        <rect id="tile-2-4" width="20" height="10" x="115" y="115" />
+        <rect id="tile-2-5" width="20" height="10" x="115" y="135" />
+        <rect id="tile-2-7" width="20" height="10" x="115" y="175" />
+        <rect id="tile-3-1" width="20" height="10" x="155" y="55" />
+        <rect id="tile-3-2" width="20" height="10" x="155" y="75" />
+        <rect id="tile-3-3" width="20" height="10" x="155" y="95" />
+        <rect id="tile-4-1" width="20" height="10" x="195" y="55" />
+        <rect id="tile-4-2" width="20" height="10" x="195" y="75" />
+        <rect id="tile-4-3" width="20" height="10" x="195" y="95" />
+        <rect id="tile-4-5" width="20" height="10" x="195" y="135" />
+        <rect id="tile-4-7" width="20" height="10" x="195" y="175" />
+        <rect id="tile-5-1" width="20" height="10" x="235" y="55" />
+        <rect id="tile-5-2" width="20" height="10" x="235" y="75" />
+        <rect id="tile-5-3" width="20" height="10" x="235" y="95" />
+        <rect id="tile-5-5" width="20" height="10" x="235" y="135" />
+        <rect id="tile-6-1" width="20" height="10" x="275" y="55" />
+        <rect id="tile-6-2" width="20" height="10" x="275" y="75" />
+        <rect id="tile-6-5" width="20" height="10" x="275" y="135" />
+        <rect id="tile-6-7" width="20" height="10" x="275" y="175" />
+        <rect id="tile-7-1" width="20" height="10" x="315" y="55" />
+        <rect id="tile-7-2" width="20" height="10" x="315" y="75" />
+        <rect id="tile-7-3" width="20" height="10" x="315" y="95" />
+        <rect id="tile-7-6" width="20" height="10" x="315" y="155" />
+        <rect id="tile-8-2" width="20" height="10" x="355" y="75" />
+        <rect id="tile-9-1" width="20" height="10" x="395" y="55" />
+        <rect id="tile-9-4" width="20" height="10" x="395" y="115" />
+        <rect id="tile-9-5" width="20" height="10" x="395" y="135" />
+        <rect id="tile-10-1" width="20" height="10" x="435" y="55" />
+        <rect id="tile-10-2" width="20" height="10" x="435" y="75" />
+        <rect id="tile-10-7" width="20" height="10" x="435" y="175" />
+        <rect id="tile-11-1" width="20" height="10" x="475" y="55" />
+        <rect id="tile-11-2" width="20" height="10" x="475" y="75" />
+        <rect id="tile-11-6" width="20" height="10" x="475" y="155" />
+        <rect id="tile-12-1" width="20" height="10" x="515" y="55" />
+        <rect id="tile-12-2" width="20" height="10" x="515" y="75" />
+        <rect id="tile-12-4" width="20" height="10" x="515" y="115" />
+        <rect id="tile-12-5" width="20" height="10" x="515" y="135" />
+        <rect id="tile-12-6" width="20" height="10" x="515" y="155" />
+        <rect id="tile-12-7" width="20" height="10" x="515" y="175" />
+        <rect id="tile-13-1" width="20" height="10" x="555" y="55" />
+        <rect id="tile-13-2" width="20" height="10" x="555" y="75" />
+        <rect id="tile-13-3" width="20" height="10" x="555" y="95" />
+        <rect id="tile-13-6" width="20" height="10" x="555" y="155" />
+        <rect id="tile-14-1" width="20" height="10" x="595" y="55" />
+        <rect id="tile-14-2" width="20" height="10" x="595" y="75" />
+        <rect id="tile-14-7" width="20" height="10" x="595" y="175" />
+        <rect id="tile-15-1" width="20" height="10" x="635" y="55" />
+        <rect id="tile-15-2" width="20" height="10" x="635" y="75" />
+        <rect id="tile-15-3" width="20" height="10" x="635" y="95" />
+        <rect id="tile-15-5" width="20" height="10" x="635" y="135" />
+        <rect id="tile-16-1" width="20" height="10" x="675" y="55" />
+        <rect id="tile-16-2" width="20" height="10" x="675" y="75" />
+        <rect id="tile-16-4" width="20" height="10" x="675" y="115" />
+        <rect id="tile-16-5" width="20" height="10" x="675" y="135" />
+        <rect id="tile-16-6" width="20" height="10" x="675" y="155" />
+        <rect id="tile-16-7" width="20" height="10" x="675" y="175" />
+        <rect id="tile-17-1" width="20" height="10" x="715" y="55" />
+        <rect id="tile-17-2" width="20" height="10" x="715" y="75" />
+        <rect id="tile-17-3" width="20" height="10" x="715" y="95" />
+        <rect id="tile-17-6" width="20" height="10" x="715" y="155" />
+        <rect id="tile-18-1" width="20" height="10" x="755" y="55" />
+        <rect id="tile-18-2" width="20" height="10" x="755" y="75" />
+        <rect id="tile-18-3" width="20" height="10" x="755" y="95" />
+        <rect id="tile-18-4" width="20" height="10" x="755" y="115" />
+        <rect id="tile-18-7" width="20" height="10" x="755" y="175" />
+        <rect id="tile-19-2" width="20" height="10" x="795" y="75" />
+        <rect id="tile-20-0" width="20" height="10" x="835" y="35" />
+        <rect id="tile-20-1" width="20" height="10" x="835" y="55" />
+        <rect id="tile-20-2" width="20" height="10" x="835" y="75" />
+        <rect id="tile-20-6" width="20" height="10" x="835" y="155" />
+        <rect id="tile-21-0" width="20" height="10" x="875" y="35" />
+        <rect id="tile-22-0" width="20" height="10" x="915" y="35" />
+        <rect id="tile-22-3" width="20" height="10" x="915" y="95" />
+        <rect id="tile-22-5" width="20" height="10" x="915" y="135" />
+        <rect id="tile-23-2" width="20" height="10" x="955" y="75" />
+        <rect id="tile-24-1" width="20" height="10" x="995" y="55" />
+        <rect id="tile-24-7" width="20" height="10" x="995" y="175" />
+        <rect id="tile-25-1" width="20" height="10" x="1035" y="55" />
+        <rect id="tile-25-5" width="20" height="10" x="1035" y="135" />
+        <rect id="tile-26-2" width="20" height="10" x="1075" y="75" />
+        <rect id="tile-27-2" width="20" height="10" x="1115" y="75" />
+        <rect id="tile-27-3" width="20" height="10" x="1115" y="95" />
+        <rect id="tile-27-6" width="20" height="10" x="1115" y="155" />
+        <rect id="tile-28-2" width="20" height="10" x="1155" y="75" />
+        <rect id="tile-28-3" width="20" height="10" x="1155" y="95" />
+        <rect id="tile-29-2" width="20" height="10" x="1195" y="75" />
+        <rect id="tile-29-3" width="20" height="10" x="1195" y="95" />
+        <rect id="tile-30-2" width="20" height="10" x="1235" y="75" />
+        <rect id="tile-30-3" width="20" height="10" x="1235" y="95" />
+        <rect id="tile-30-7" width="20" height="10" x="1235" y="175" />
+        <rect id="tile-31-2" width="20" height="10" x="1275" y="75" />
+        <rect id="tile-32-0" width="20" height="10" x="1315" y="35" />
+        <rect id="tile-32-1" width="20" height="10" x="1315" y="55" />
+        <rect id="tile-32-2" width="20" height="10" x="1315" y="75" />
+        <rect id="tile-32-6" width="20" height="10" x="1315" y="155" />
+        <rect id="tile-33-0" width="20" height="10" x="1355" y="35" />
+        <rect id="tile-34-0" width="20" height="10" x="1395" y="35" />
+        <rect id="tile-34-3" width="20" height="10" x="1395" y="95" />
+        <rect id="tile-34-5" width="20" height="10" x="1395" y="135" />
+        <rect id="tile-35-2" width="20" height="10" x="1435" y="75" />
+        <rect id="tile-36-0" width="20" height="10" x="1475" y="35" />
+        <rect id="tile-36-1" width="20" height="10" x="1475" y="55" />
+        <rect id="tile-36-2" width="20" height="10" x="1475" y="75" />
+        <rect id="tile-36-6" width="20" height="10" x="1475" y="155" />
+        <rect id="tile-37-0" width="20" height="10" x="1515" y="35" />
+        <rect id="tile-37-3" width="20" height="10" x="1515" y="95" />
+        <rect id="tile-37-4" width="20" height="10" x="1515" y="115" />
+        <rect id="tile-38-0" width="20" height="10" x="1555" y="35" />
+        <rect id="tile-38-2" width="20" height="10" x="1555" y="75" />
+        <rect id="tile-38-3" width="20" height="10" x="1555" y="95" />
+        <rect id="tile-38-4" width="20" height="10" x="1555" y="115" />
+        <rect id="tile-38-6" width="20" height="10" x="1555" y="155" />
+    </g>
+</svg>
