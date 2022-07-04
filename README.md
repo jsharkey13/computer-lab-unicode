@@ -71,6 +71,6 @@ This makes it easy to tell where one character ends and another begins.
 
 The message in The Street of the Computer Laboratory is 39 bytes long and reproduced in full below. Click the image for a larger version.
 
-![Computer Laboratory Street Floor](images/computer-lab-street-floor.svg)
+[![Computer Laboratory Street Floor](images/computer-lab-street-floor.svg)](https://raw.githubusercontent.com/jsharkey13/computer-lab-unicode/master/images/computer-lab-street-floor.svg)
 
 Can you decode it?
